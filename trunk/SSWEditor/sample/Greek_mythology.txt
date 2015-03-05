@@ -209,6 +209,21 @@ http://dbpedia.org/resource/Aphrodite
         http://dbpedia.org/resource/Venus_Anadyomene
         http://dbpedia.org/resource/Birth_of_Venus_(Botticelli)
         
+http://dbpedia.org/resource/Dionysus
+    `personification
+        http://dbpedia.org/resource/Harvest
+        http://dbpedia.org/resource/Wine
+        http://dbpedia.org/resource/Madness
+    `group
+        http://dbpedia.org/resource/Olympians
+    `father
+        http://dbpedia.org/resource/Zeus
+    `mother
+        http://dbpedia.org/resource/Semele
+        http://dbpedia.org/resource/Zeus    
+    `art
+        http://dbpedia.org/resource/Semele_(Handel)
+        
 
 http://dbpedia.org/resource/Hermes
     `personification
@@ -250,6 +265,7 @@ http://dbpedia.org/resource/Apollo
         http://dbpedia.org/resource/Seleme
             `youtube
                 http://www.youtube.com/watch?v=xKL0Rd7kYGE&list=PL9E723F2FCD36EC56
+        http://dbpedia.org/resource/The_Birth_of_Tragedy
 
 http://dbpedia.org/resource/Artemis
     `personification
@@ -303,5 +319,4 @@ http://dbpedia.org/resource/Eros
     `spouse
         http://dbpedia.org/resource/Psyche
 
-
-        
+    
