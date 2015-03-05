@@ -180,8 +180,9 @@
     <Content Include="icudt.dll" />
     <Content Include="libcef.dll" />
     <Content Include="sample\Greek_mythology.txt" />
-    <Content Include="sample\Mammalia.txt" />
+    <Content Include="sample\Ursidae.txt" />
     <Content Include="sample\Galaxy.txt" />
+    <Content Include="sample\The_Birth_of_Tragedy.txt" />
     <EmbeddedResource Include="src\LoadingForm.resx">
       <DependentUpon>LoadingForm.cs</DependentUpon>
     </EmbeddedResource>
